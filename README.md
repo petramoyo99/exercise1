@@ -1,2 +1,2 @@
 # exercise1
-FIRST EXERCISE
+First sql Fundementals exercise.
